@@ -1,0 +1,17 @@
+D:\Evolent\OnlineDirectory\DAL\bin\Debug\netstandard2.0\NUnit3.TestAdapter.dll
+D:\Evolent\OnlineDirectory\DAL\bin\Debug\netstandard2.0\NUnit3.TestAdapter.pdb
+D:\Evolent\OnlineDirectory\DAL\bin\Debug\netstandard2.0\nunit.engine.dll
+D:\Evolent\OnlineDirectory\DAL\bin\Debug\netstandard2.0\nunit.engine.api.dll
+D:\Evolent\OnlineDirectory\DAL\bin\Debug\netstandard2.0\Mono.Cecil.dll
+D:\Evolent\OnlineDirectory\DAL\bin\Debug\netstandard2.0\OnlineDirectory.DAL.deps.json
+D:\Evolent\OnlineDirectory\DAL\bin\Debug\netstandard2.0\OnlineDirectory.DAL.dll
+D:\Evolent\OnlineDirectory\DAL\bin\Debug\netstandard2.0\OnlineDirectory.DAL.pdb
+D:\Evolent\OnlineDirectory\DAL\bin\Debug\netstandard2.0\OnlineDirectory.DomainEntites.dll
+D:\Evolent\OnlineDirectory\DAL\bin\Debug\netstandard2.0\OnlineDirectory.DomainEntites.pdb
+D:\Evolent\OnlineDirectory\DAL\obj\Debug\netstandard2.0\OnlineDirectory.DAL.csprojResolveAssemblyReference.cache
+D:\Evolent\OnlineDirectory\DAL\obj\Debug\netstandard2.0\OnlineDirectory.DAL.csproj.CoreCompileInputs.cache
+D:\Evolent\OnlineDirectory\DAL\obj\Debug\netstandard2.0\OnlineDirectory.DAL.AssemblyInfoInputs.cache
+D:\Evolent\OnlineDirectory\DAL\obj\Debug\netstandard2.0\OnlineDirectory.DAL.AssemblyInfo.cs
+D:\Evolent\OnlineDirectory\DAL\obj\Debug\netstandard2.0\OnlineDirectory.DAL.csproj.CopyComplete
+D:\Evolent\OnlineDirectory\DAL\obj\Debug\netstandard2.0\OnlineDirectory.DAL.dll
+D:\Evolent\OnlineDirectory\DAL\obj\Debug\netstandard2.0\OnlineDirectory.DAL.pdb

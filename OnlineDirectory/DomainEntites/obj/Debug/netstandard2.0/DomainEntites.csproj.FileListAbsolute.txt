@@ -1,0 +1,16 @@
+D:\Evolent\OnlineDirectory\DomainEntites\bin\Debug\netstandard2.0\DomainEntites.deps.json
+D:\Evolent\OnlineDirectory\DomainEntites\bin\Debug\netstandard2.0\DomainEntites.dll
+D:\Evolent\OnlineDirectory\DomainEntites\bin\Debug\netstandard2.0\DomainEntites.pdb
+D:\Evolent\OnlineDirectory\DomainEntites\bin\Debug\netstandard2.0\System.ComponentModel.DataAnnotations.dll
+D:\Evolent\OnlineDirectory\DomainEntites\bin\Debug\netstandard2.0\System.Configuration.dll
+D:\Evolent\OnlineDirectory\DomainEntites\bin\Debug\netstandard2.0\System.Security.dll
+D:\Evolent\OnlineDirectory\DomainEntites\bin\Debug\netstandard2.0\System.ComponentModel.DataAnnotations.xml
+D:\Evolent\OnlineDirectory\DomainEntites\bin\Debug\netstandard2.0\System.Configuration.xml
+D:\Evolent\OnlineDirectory\DomainEntites\bin\Debug\netstandard2.0\System.Security.xml
+D:\Evolent\OnlineDirectory\DomainEntites\obj\Debug\netstandard2.0\DomainEntites.csprojResolveAssemblyReference.cache
+D:\Evolent\OnlineDirectory\DomainEntites\obj\Debug\netstandard2.0\DomainEntites.csproj.CoreCompileInputs.cache
+D:\Evolent\OnlineDirectory\DomainEntites\obj\Debug\netstandard2.0\DomainEntites.AssemblyInfoInputs.cache
+D:\Evolent\OnlineDirectory\DomainEntites\obj\Debug\netstandard2.0\DomainEntites.AssemblyInfo.cs
+D:\Evolent\OnlineDirectory\DomainEntites\obj\Debug\netstandard2.0\DomainEntites.csproj.CopyComplete
+D:\Evolent\OnlineDirectory\DomainEntites\obj\Debug\netstandard2.0\DomainEntites.dll
+D:\Evolent\OnlineDirectory\DomainEntites\obj\Debug\netstandard2.0\DomainEntites.pdb

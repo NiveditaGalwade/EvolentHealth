@@ -1,0 +1,12 @@
+D:\Evolent\OnlineDirectory\DAL\obj\Debug\netstandard2.0\DAL.csprojResolveAssemblyReference.cache
+D:\Evolent\OnlineDirectory\DAL\obj\Debug\netstandard2.0\DAL.csproj.CoreCompileInputs.cache
+D:\Evolent\OnlineDirectory\DAL\obj\Debug\netstandard2.0\DAL.AssemblyInfoInputs.cache
+D:\Evolent\OnlineDirectory\DAL\obj\Debug\netstandard2.0\DAL.AssemblyInfo.cs
+D:\Evolent\OnlineDirectory\DAL\bin\Debug\netstandard2.0\DAL.deps.json
+D:\Evolent\OnlineDirectory\DAL\bin\Debug\netstandard2.0\DAL.dll
+D:\Evolent\OnlineDirectory\DAL\bin\Debug\netstandard2.0\DomainEntites.dll
+D:\Evolent\OnlineDirectory\DAL\bin\Debug\netstandard2.0\DomainEntites.pdb
+D:\Evolent\OnlineDirectory\DAL\obj\Debug\netstandard2.0\DAL.csproj.CopyComplete
+D:\Evolent\OnlineDirectory\DAL\bin\Debug\netstandard2.0\DAL.pdb
+D:\Evolent\OnlineDirectory\DAL\obj\Debug\netstandard2.0\DAL.dll
+D:\Evolent\OnlineDirectory\DAL\obj\Debug\netstandard2.0\DAL.pdb
